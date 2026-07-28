@@ -150,7 +150,7 @@ Although these sentences use different words, their embeddings are close because
 <img width="1466" height="52" alt="image" src="https://github.com/user-attachments/assets/4a0daad6-1171-4d3b-813b-29252e48bbaa" />
 <img width="1461" height="56" alt="image" src="https://github.com/user-attachments/assets/ac521ac6-38bb-4030-b7d9-54c84bf7822f" />
 
-## just trying with sentences 
+## just trying with other sentences 
 
 <img width="1471" height="201" alt="image" src="https://github.com/user-attachments/assets/747bd08f-9e9f-4c3b-ac47-df08c97307d0" />
 
