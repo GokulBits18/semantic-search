@@ -67,7 +67,7 @@ import numpy as np
 
 sentences = [
     "i like bike",
-    "i like bike color" """----- ( you can try with other sentences also ) -------"""
+    "i like bike color" # ---- ( you can try with other sentences also ) -----
 ]
 
 model = SentenceTransformer(
